@@ -1,0 +1,16 @@
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\bin\Debug\net8.0-windows\QLBH.exe
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\bin\Debug\net8.0-windows\QLBH.deps.json
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\bin\Debug\net8.0-windows\QLBH.runtimeconfig.json
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\bin\Debug\net8.0-windows\QLBH.dll
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\bin\Debug\net8.0-windows\QLBH.pdb
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.csproj.GenerateResource.cache
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.AssemblyInfoInputs.cache
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.AssemblyInfo.cs
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.csproj.CoreCompileInputs.cache
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.dll
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\refint\QLBH.dll
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.pdb
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.genruntimeconfig.cache
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\ref\QLBH.dll
+D:\paochouz\NAM2\HK2\QTCSDL\QLBH\QLBH\obj\Debug\net8.0-windows\QLBH.NHAN.resources
